@@ -1,0 +1,17 @@
+LAB 05: Methods
+
+Problem 1:
+
+a. '51'
+
+b. 10
+
+c. 25
+    8
+
+d. ['one', 'two', 'three', 'four']
+
+e. 72
+
+
+
